@@ -43,6 +43,6 @@ My idea is to build a weather app that connects to an API to show users the weat
 
 > Here are some of the things I learnt during this project
 
-Whilst completing this project, I was able to learn more about APIs and JSON objects. I have a more rounded understanding of JSON objects and key concepts such as key/value pairs. As a result, I am now able to read and understand the structure of data from API's and extract them so to the frontend.
+Whilst completing this project, I was able to learn more about APIs. I now have a more rounded understanding of JSON objects and key concepts such as key/value pairs. As a result, I am now able to read and understand the structure of data from API's and extract them to the frontend.
 
 I used the OpenWeather API for this project. I was able to discover a wide range of API's which will in no doubt help me when it comes to building a similar app in the future.
