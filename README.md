@@ -1,4 +1,4 @@
-# Weather App
+# :closed_umbrella: Weather App
 
 > I created a Weather App to explore the use of APIs in React.
 
